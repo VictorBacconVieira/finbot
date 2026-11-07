@@ -1,1 +1,3 @@
 -r requirements.txt
+pytest>=8.0
+httpx>=0.27          # usado pelo TestClient da FastAPI para chamar a API nos testes
