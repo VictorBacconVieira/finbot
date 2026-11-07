@@ -2,6 +2,16 @@
 
 Assistente educacional para aprender conceitos sobre investimentos no Brasil. Este projeto está sendo desenvolvido passo a passo como parte das aulas.
 
+## Links do projeto
+
+| O quê | Link |
+|---|---|
+| Chat publicado (Streamlit Cloud) | https://finbot-victorbacconvieira.streamlit.app/ |
+| API publicada (Render) | https://finbot-api-qrbq.onrender.com |
+| Documentação da API | https://finbot-api-qrbq.onrender.com/docs |
+
+No plano gratuito, a API "dorme" depois de um tempo sem uso: a primeira pergunta pode demorar cerca de 1 minuto.
+
 ## Etapa atual
 
 Na Aula 1, o projeto tem uma conversa inicial pelo terminal. O FinBot responde a perguntas gerais sobre investimentos e mantém o histórico durante a conversa.
